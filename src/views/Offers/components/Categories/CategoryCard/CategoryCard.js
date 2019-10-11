@@ -19,7 +19,7 @@ export default class CategoryCard extends Component {
                             <div className="lighten-1 valign-wrapper categoryCard"
                                  style={{backgroundColor: "rgb(23, 43, 84)"}}>
                                 <img src={myConfig.apiBackendUrl+'/media/'+this.props.icon}
-                                     className="responsive-img center-block" width={"50%"} height={"40%"}/>
+                                     className="responsive-img center-block" />
                             </div>
                         </a>
                         <div className="categoryTitle center-align" style={{color: "rgb(23, 43, 84)"}}>{this.props.name}</div>
