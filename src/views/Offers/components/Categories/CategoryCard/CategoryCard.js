@@ -1,5 +1,6 @@
 import React, {Component} from "react";
 import {Link} from "react-router-dom";
+import {myConfig} from "../../../../../config";
 
 
 export default class CategoryCard extends Component {
@@ -14,11 +15,11 @@ export default class CategoryCard extends Component {
 
                 <a href={"/offers?cat_id="+this.props.id+"&categoryName="+this.props.name}>
                     <div className="col s6 m4 no-left-padding categoryCardWrapper">
-                        <a href={"/offers?cat_id="+this.props.id+"&categoryName="+this.props.name} className="valign-wrapper">
+                        <a href="category.html" className="valign-wrapper">
                             <div className="lighten-1 valign-wrapper categoryCard"
                                  style={{backgroundColor: "rgb(23, 43, 84)"}}>
-                                <img src="http://www.cloudpaneltec.com/demo/aroodi/2/images/restaurant-icon.png"
-                                     className="responsive-img center-block"/>
+                                <img src={myConfig.apiBackendUrl+'/media/'+this.props.icon}
+                                     className="responsive-img center-block" width={"50%"} height={"40%"}/>
                             </div>
                         </a>
                         <div className="categoryTitle center-align" style={{color: "rgb(23, 43, 84)"}}>{this.props.name}</div>

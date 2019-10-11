@@ -22,7 +22,7 @@ export default class Categories extends Component {
                     console.log(result)
                     this.setState({
                         categories: result.data.map((res, _) => {
-                            return <CategoryCard name={res.name} id={res.id} handler={this.props.handler}/>
+                            return <CategoryCard name={res.name} id={res.id} handler={this.props.handler} icon={res.icons}/>
                         }), isCategoriesLoaded: true
                     })
 
