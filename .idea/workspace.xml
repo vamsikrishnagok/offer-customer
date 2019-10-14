@@ -255,6 +255,13 @@
               <item name="offer-customer" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer-customer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="offer-customer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -330,15 +337,15 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/views/Offers/components/OfferListCard" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/views/Offers/components" />
       <recent name="$PROJECT_DIR$/src/views/MyOffers/components/Redeemed" />
       <recent name="$PROJECT_DIR$/src/views/MyOffers/components/Expired" />
       <recent name="$PROJECT_DIR$/src/views/MyOffers/components/Claimed" />
-      <recent name="$PROJECT_DIR$/src/layouts/Minimal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views/Offers/components/OfferListCard" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -385,12 +392,12 @@
       <workItem from="1570706678650" duration="1751000" />
       <workItem from="1570802067518" duration="1882000" />
       <workItem from="1571040858928" duration="946000" />
-      <workItem from="1571062663852" duration="796000" />
+      <workItem from="1571062663852" duration="921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156494000" />
+    <option name="totallyTimeSpent" value="156619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1433" y="25" width="1299" height="743" extended-state="6" />
