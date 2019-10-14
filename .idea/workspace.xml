@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="924681b7-8877-4336-8865-64533c0b5d2b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/layouts/Main/components/Topbar/Topbar.js" afterPath="$PROJECT_DIR$/src/layouts/Main/components/Topbar/Topbar.js" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home/Home.js" afterPath="$PROJECT_DIR$/src/views/Home/Home.js" />
-      <change beforePath="$PROJECT_DIR$/src/views/Offers/Offers.js" afterPath="$PROJECT_DIR$/src/views/Offers/Offers.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -121,7 +119,7 @@
         <entry file="file://$PROJECT_DIR$/src/layouts/Main/components/Topbar/Topbar.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="338">
-              <caret line="63" column="115" lean-forward="false" selection-start-line="63" selection-start-column="115" selection-end-line="63" selection-end-column="115" />
+              <caret line="63" column="107" lean-forward="false" selection-start-line="63" selection-start-column="107" selection-end-line="63" selection-end-column="107" />
               <folding />
             </state>
           </provider>
@@ -355,12 +353,12 @@
       <workItem from="1569821508695" duration="2394000" />
       <workItem from="1570706678650" duration="1751000" />
       <workItem from="1570802067518" duration="1882000" />
-      <workItem from="1571040858928" duration="53000" />
+      <workItem from="1571040858928" duration="317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154805000" />
+    <option name="totallyTimeSpent" value="155069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1433" y="25" width="1299" height="743" extended-state="6" />
@@ -758,7 +756,7 @@
     <entry file="file://$PROJECT_DIR$/src/layouts/Main/components/Topbar/Topbar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
-          <caret line="63" column="115" lean-forward="false" selection-start-line="63" selection-start-column="115" selection-end-line="63" selection-end-column="115" />
+          <caret line="63" column="107" lean-forward="false" selection-start-line="63" selection-start-column="107" selection-end-line="63" selection-end-column="107" />
           <folding />
         </state>
       </provider>
