@@ -11,9 +11,9 @@ export default class Home extends Component {
                         <Categories/>
 
                     </div>
-                    <div className="row">
-                        <PopularOffers/>
-                    </div>
+                    {/*<div className="row">*/}
+                        {/*<PopularOffers/>*/}
+                    {/*</div>*/}
                     <div className="row">
                         <GetApp/>
                     </div>

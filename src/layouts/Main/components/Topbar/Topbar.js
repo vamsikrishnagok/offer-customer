@@ -61,8 +61,7 @@ export default class Topbar extends Component {
                                         <div className="input-field col s10">
                                             <i className="material-icons prefix">search</i>
                                             <input name="searchkeyword" id="searchkeyword" type="text" value={this.state.SearchValue} onChange={(event)=>this.handleChange(event)}/>
-                                            <label for="searchkeyword" className="truncate">Search for offers from
-                                                restaurants or electronics or car accessories...</label>
+                                            <label for="searchkeyword" className="truncate">Search for luxory treat...</label>
                                         </div>
                                         <div className="input-field col s2">
                                             <button className="btn waves-effect" type="submit"

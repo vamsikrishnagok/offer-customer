@@ -128,13 +128,13 @@ export default class Offers extends Component {
                         </div>
 
                     </div>
-                    <div className="row">
-                        <div className="col s12">
-                            <PopularOffers/>
+                    {/*<div className="row">*/}
+                        {/*<div className="col s12">*/}
+                            {/*<PopularOffers/>*/}
 
-                        </div>
+                        {/*</div>*/}
 
-                    </div>
+                    {/*</div>*/}
                 </div>
 
             </>
