@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="924681b7-8877-4336-8865-64533c0b5d2b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/layouts/Main/components/Topbar/Topbar.js" afterPath="$PROJECT_DIR$/src/layouts/Main/components/Topbar/Topbar.js" />
+      <change beforePath="$PROJECT_DIR$/src/views/Offers/components/Categories/CategoryCard/CategoryCard.js" afterPath="$PROJECT_DIR$/src/views/Offers/components/Categories/CategoryCard/CategoryCard.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,18 +51,18 @@
       <file leaf-file-name="Categories.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Offers/components/Categories/Categories.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
+            <state relative-caret-position="-510">
               <caret line="24" column="122" lean-forward="false" selection-start-line="24" selection-start-column="122" selection-end-line="24" selection-end-column="122" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CategoryCard.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CategoryCard.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/views/Offers/components/Categories/CategoryCard/CategoryCard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="21" column="103" lean-forward="false" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="103" />
+            <state relative-caret-position="274">
+              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -115,10 +115,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Topbar.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Topbar.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/layouts/Main/components/Topbar/Topbar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="26">
               <caret line="63" column="107" lean-forward="false" selection-start-line="63" selection-start-column="107" selection-end-line="63" selection-end-column="107" />
               <folding />
             </state>
@@ -198,11 +198,11 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/views/Home/components/Categories/Categories.js" />
         <option value="$PROJECT_DIR$/src/views/Offers/components/Categories/Categories.js" />
-        <option value="$PROJECT_DIR$/src/views/Offers/components/Categories/CategoryCard/CategoryCard.js" />
         <option value="$PROJECT_DIR$/src/views/Home/components/Categories/CategoryCard/CategoryCard.js" />
         <option value="$PROJECT_DIR$/src/views/Home/Home.js" />
         <option value="$PROJECT_DIR$/src/views/Offers/Offers.js" />
         <option value="$PROJECT_DIR$/src/layouts/Main/components/Topbar/Topbar.js" />
+        <option value="$PROJECT_DIR$/src/views/Offers/components/Categories/CategoryCard/CategoryCard.js" />
       </list>
     </option>
   </component>
@@ -280,6 +280,33 @@
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="Offers" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="offer-customer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Offers" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="offer-customer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Offers" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Categories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="offer-customer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Offers" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Categories" type="462c0819:PsiDirectoryNode" />
+              <item name="CategoryCard" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -353,12 +380,12 @@
       <workItem from="1569821508695" duration="2394000" />
       <workItem from="1570706678650" duration="1751000" />
       <workItem from="1570802067518" duration="1882000" />
-      <workItem from="1571040858928" duration="317000" />
+      <workItem from="1571040858928" duration="946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155069000" />
+    <option name="totallyTimeSpent" value="155698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1433" y="25" width="1299" height="743" extended-state="6" />
@@ -698,24 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Offers/components/Categories/Categories.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="24" column="122" lean-forward="false" selection-start-line="24" selection-start-column="122" selection-end-line="24" selection-end-column="122" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Offers/components/Categories/CategoryCard/CategoryCard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="21" column="103" lean-forward="false" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="103" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Home/components/Categories/CategoryCard/CategoryCard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -755,9 +764,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/Main/components/Topbar/Topbar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="26">
           <caret line="63" column="107" lean-forward="false" selection-start-line="63" selection-start-column="107" selection-end-line="63" selection-end-column="107" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Offers/components/Categories/Categories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="24" column="122" lean-forward="false" selection-start-line="24" selection-start-column="122" selection-end-line="24" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Offers/components/Categories/CategoryCard/CategoryCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
